@@ -46,6 +46,8 @@ References
 
 -  `Ned Batchelder: Getting Started Testing - PyCon 2014 <https://www.youtube.com/watch?v=FxSsnHeWQBY>`_
 
+    +  Ned's `notes <http://nedbatchelder.com/text/test0.html>`_ from that talk.
+
 Give credit where it's due
 ---------------------------
 -  `Python Testing <http://pythontesting.net/>`_

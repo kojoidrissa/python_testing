@@ -11,6 +11,7 @@ What is "testing"?
 Why would I do this?
 --------------------
 -  Code works now, don't break it if you add to it
+-  {Typin' and Hopin'} < {Software Engineering}
    
 How would I do this?
 --------------------
@@ -34,6 +35,10 @@ Nose: The New Hotness
 
 Pytest: Latest and Greatest
 ----------------------------
+
+Coverage: Will I talk about it?
+-------------------------------
+-  I'll evaluate it to see how useful I think it will be to new developers
 
 References
 ***********

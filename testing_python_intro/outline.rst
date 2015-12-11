@@ -36,9 +36,13 @@ Nose: The New Hotness
 Pytest: Latest and Greatest
 ----------------------------
 
-Coverage: Will I talk about it?
+Other Tools I may talk about
 -------------------------------
--  I'll evaluate it to see how useful I think it will be to new developers
+-  I'll evaluate them to see how useful I think they'll be to new developers. I haven't used ANY of these yet
+
+    +  Coverage: is all the code being tested?
+    +  Mcabe: How complex is your code?
+    +  PyFlakes & Pep8: Because style matters
 
 References
 ***********

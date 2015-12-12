@@ -43,6 +43,9 @@ Other Tools I may talk about
     +  Coverage: is all the code being tested?
     +  Mcabe: How complex is your code?
     +  PyFlakes & Pep8: Because style matters
+    +  Mocking/Mock objects: Cuz you can't test the Internet
+
+        *  from mock import Mock
 
 References
 ***********

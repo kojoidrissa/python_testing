@@ -1,3 +1,4 @@
+#To run: python -m doctest test_markdown_doctest.txt
 
 This is a doctest based regression suite for unnecessary_math.py
 Each '>>' line is run as if in a python shell, and counts as a test.

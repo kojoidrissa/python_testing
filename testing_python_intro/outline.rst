@@ -20,8 +20,9 @@ How would I do this?
 -  Nose
 -  Pytest
 
-Doctest: your first step into testing
+Doctest: your first step into testing AND documentation
 -------------------------------------
+-  You should be documenting your functions anyway
 
 Unittest: Testing SMALLTALK style! (like Gangnam Style...but with testing)
 ---------------------------------------------------------------------------

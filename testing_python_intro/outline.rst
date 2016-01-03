@@ -15,8 +15,9 @@ Why would I do this?
    
 How would I do this?
 --------------------
--  Doctest
--  Unittest
+-  Python's built-in tools
+    -  Doctest
+    -  Unittest
 -  Nose
 -  Pytest
 

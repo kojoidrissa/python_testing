@@ -57,7 +57,8 @@ Examples: What will I use?
 -  My spreadsheet code (lots of modules & interaction)
 -  Create "fake" code
 
-    +  multiple fake modules, to simulate a level of complexity  
+    +  multiple fake modules, to simulate a level of complexity 
+    +  Maybe I base that fake code ON the spreadsheet code? I need to document those relationships anyway 
 
 References
 ***********

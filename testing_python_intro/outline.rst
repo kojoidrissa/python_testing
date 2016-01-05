@@ -10,6 +10,9 @@ What is "testing"?
    
 Why would I do this?
 --------------------
+-  REQUIRES a deeper understanding and analysis of
+    -  what your code does
+    -  how it does it 
 -  Code works now, don't break it if you add to it
 -  {Typin' and Hopin'} < {Software Engineering}
    
@@ -48,6 +51,13 @@ Other Tools I may talk about
     +  Mocking/Mock objects: Cuz you can't test the Internet
 
         *  from mock import Mock
+
+Examples: What will I use?
+---------------------------
+-  My spreadsheet code (lots of modules & interaction)
+-  Create "fake" code
+
+    +  multiple fake modules, to simulate a level of complexity  
 
 References
 ***********

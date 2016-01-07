@@ -20,9 +20,10 @@ How would I do this?
 --------------------
 -  Python's built-in tools
     -  Doctest
-    -  Unittest
--  Nose
+    -  Unittest vs Unittest2
+-  Nose vs Nose2
 -  Pytest
+-  I'll focus on Python3 tools
 
 Doctest: your first step into testing AND documentation
 -------------------------------------

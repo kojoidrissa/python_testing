@@ -58,7 +58,10 @@ Examples: What will I use?
 -  Create "fake" code
 
     +  multiple fake modules, to simulate a level of complexity 
-    +  Maybe I base that fake code ON the spreadsheet code? I need to document those relationships anyway 
+    +  Maybe I base that fake code ON the spreadsheet code? I need to document those relationships anyway
+    +  data types
+        +  input: list; output: dictionary
+        +  input: string; output: list 
 
 References
 ***********

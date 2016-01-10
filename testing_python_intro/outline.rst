@@ -23,7 +23,7 @@ How would I do this?
     -  Unittest vs Unittest2
 -  Nose vs Nose2
 -  Pytest
--  I'll focus on Python3 tools
+-  I'll focus on Python3 tools cuz that's the future.
 
 Doctest: your first step into testing AND documentation
 -------------------------------------

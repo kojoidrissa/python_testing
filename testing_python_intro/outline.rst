@@ -21,9 +21,26 @@ How would I do this?
 -  Python's built-in tools
     -  Doctest
     -  Unittest vs Unittest2
--  Nose vs Nose2
--  Pytest
--  I'll focus on Python3 tools cuz that's the future.
+-  Other tools (brief mention)
+    -  Nose vs Nose2
+    -  Pytest
+    -  I'll focus on Python3 tools cuz that's the future.
+
+*  Methods: primary focus
+
+    -  How do you write tests?
+
+        +  Testing Cycle
+
+            *  Write test, run test
+            *  Test Fails
+            *  Write enough code to pass test
+    -  What are you testing for, specifically?
+    -  What AREN'T/SHOULDN'T you test?
+    -  EXAMPLES GO HERE
+
+        +  Doctest
+        +  unittest
 
 Doctest: your first step into testing AND documentation
 -------------------------------------
